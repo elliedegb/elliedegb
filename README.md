@@ -15,8 +15,3 @@ I'm a Psychologist with Emphasis in Psychological Assessment seeking opportuniti
  <a href="https://www.linkedin.com/in/ellie-bastos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.researchgate.net/profile/Ellie-Bastos?ev=hdr_xprf"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a>
 </div>
-
-## 🔭 Open Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliedegb)](https://github.com/elliedegb/github-readme-stats)
-
-[![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliedegb)](https://github.com/elliedegb/github-readme-stats)
