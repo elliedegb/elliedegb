@@ -17,6 +17,6 @@ I'm a Psychologist with Emphasis in Psychological Assessment seeking opportuniti
 </div>
 
 ## 🔭 Open Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliedegb)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliedegbmain)
 
-![Ellie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafavsbastos&show_icons=true&theme=radical)
+![Ellie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliedegb&show_icons=true&theme=radical)
