@@ -1,8 +1,20 @@
 #  Hi! I'm Ellie Bastos Degobi
 
-🎯 `Psychometrician`
+🎯 Data Scientist | Machine Learning | Psychometrics
  
-I'm a Psychologist with Emphasis in Psychological Assessment seeking opportunities from abroad. My philosophy revolves around meticulously running great research and using code to address tangible, real-world challenges. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a data scientist with a background in Psychometrics and Quantitative Psychology, specializing in building scalable, data-driven solutions that translate complex data into business impact.
+
+Actively seeking Data Science roles where I can leverage machine learning to drive measurable results.
+
+I develop end-to-end machine learning projects — from problem framing and data pipelines to modeling, evaluation, and deployment — with a strong emphasis on:
+🤖 Machine Learning & Predictive Modeling
+📊 Feature Engineering & Model Optimization
+🧠 Structured & Behavioral Data Analysis
+📈 Experimentation, Metrics & Performance Tracking
+
+My quantitative training brings a unique edge in model reliability, measurement quality, and interpretability, ensuring models are not just accurate, but trustworthy and actionable.
+
+💡 I’m particularly interested in applying ML to real-world business problems, including pricing, prediction, and decision systems.
 
 ## 🤖 Languages and Contact Info
 <div style="display: inline-block"><br>
